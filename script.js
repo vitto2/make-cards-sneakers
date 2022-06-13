@@ -1,8 +1,7 @@
+let count = 0; 
 
  let makecard = () => {   
          
-    let count = 0; 
-
     if(count>=6) {
         alert("Você atingiu a quantidade máxima de cards!");
      } else { 
