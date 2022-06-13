@@ -20,6 +20,8 @@
     `;
     
     cardArea.innerHTML+=makeCard;   
+    count++; 
+    console.log(count);
 }   
      }
 
