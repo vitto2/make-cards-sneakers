@@ -18,3 +18,7 @@ Basicamente li os valores inseridos no input usando querySelector e usei temppla
 
 O template ficou dessa forma: 
 ![image](https://user-images.githubusercontent.com/47305804/173444044-54de41be-0b11-49f3-9c02-b1bb87335fc9.png)
+
+posteriormente fiz uma atualização para que o número de cards se limitem a 6, ficando desta forma: 
+
+![image](https://user-images.githubusercontent.com/47305804/173449196-dad2cf60-8aea-4aff-a8f7-507dfc93d863.png)
