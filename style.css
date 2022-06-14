@@ -50,23 +50,33 @@ body {
     height: 100vh;
     background-color: #fffafa;
     flex-wrap: wrap;
-    gap: 30px; 
+    gap: 15px; 
     justify-content: space-evenly;
+
 }
 
 .card { 
-    height: 350px;
-    width: 350px;
+    height: 400px;
+    width: 400px;
     border-radius: 5px;
-    margin-left: 30px;
+    text-align:justify;
+    display: flex;
+    flex-direction: column;
+    gap: 10px; 
+    align-items: center;
+    
 
 }
 .card img { 
-    height: 300px;
+    width: 300px;
+    max-height: 300px;
     padding: 10px; 
     border-radius: 10px;
 }
 
+.card-area h3 { 
+    font-size: 20px;
+}
 .card-area p { 
     font-size: medium;
 }
