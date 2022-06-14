@@ -1,6 +1,8 @@
 # make-cards-sneakers
 Criador de cards de sneakers. Projeto do CTD - Digital House.
 
+Link para acessar a ferramenta. Basicamente você só precisa inserir as informações na caixa de texto e clicar no botão parar criar o card. Você pode usar qualquer URL na aba de imagem. 
+
 
 Iniciando mais um projeto para praticar front-end, mas especificamenta a manipulação do HTML direto do Javascript. A cara final do projeto ficou assim: 
 ![image](https://user-images.githubusercontent.com/47305804/173443411-4d34500a-4e09-4f67-83cf-ae11d3e3b236.png)
