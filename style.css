@@ -34,7 +34,7 @@ body {
     grid-area: area-form;
     width: 20vw;
     height: 100vh;
-    background: url(/img/jordans.png);
+    background: url(img/jordans.png);
     display: flex;
     align-items: center;
     justify-content: center;
